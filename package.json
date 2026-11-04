@@ -1,0 +1,17 @@
+{
+  "name": "falabello-store-catalog",
+  "version": "1.0.0",
+  "description": "Catálogo de una tienda en línea construido con Node.js, Express y MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "start": "node --env-file=.env server.js",
+    "seed": "node --env-file=.env scripts/seed-products.js"
+  },
+  "engines": {
+    "node": ">=20.6.0"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongodb": "^7.0.0"
+  }
+}

@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Celular Galaxy A55",
+    "category": "Tecnología",
+    "price": 1599000,
+    "stock": 12,
+    "brand": "Samsung",
+    "ramGb": 8,
+    "storageGb": 256,
+    "colors": ["Negro", "Plateado", "Azul"]
+  },
+  {
+    "name": "Audífonos Inalámbricos",
+    "category": "Tecnología",
+    "price": 249000,
+    "stock": 30,
+    "brand": "JBL",
+    "wireless": true,
+    "colors": ["Negro", "Blanco", "Azul"]
+  },
+  {
+    "name": "Camiseta Deportiva",
+    "category": "Ropa",
+    "price": 59900,
+    "stock": 50,
+    "brand": "Adidas",
+    "gender": "Mujer",
+    "sizes": ["S", "M", "L"],
+    "colors": ["Negro", "Blanco", "Azul", "Rosado"],
+    "material": "Poliéster"
+  },
+  {
+    "name": "Cien años de soledad",
+    "category": "Libros",
+    "price": 72000,
+    "stock": 8,
+    "author": "Gabriel García Márquez",
+    "pages": 496
+  },
+  {
+    "name": "Cafetera Eléctrica",
+    "category": "Hogar",
+    "price": 189000,
+    "stock": 5,
+    "brand": "Krups",
+    "capacityCups": 12,
+    "dimensions": {
+      "heightCm": 35,
+      "widthCm": 20,
+      "weightKg": 2.1
+    }
+  }
+]
